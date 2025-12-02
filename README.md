@@ -1,7 +1,7 @@
 Build Your Own Search Engine
 ================================
 
-This repository contains code and notes for a "Build Your Own Search Engine" workshop. It demonstrates a simple pipeline for turning documents into searchable vectors, indexing them, and answering queries with approximate nearest-neighbor search and optional reranking.
+This repository contains code and notes to  "Build Your Own Search Engine". It demonstrates a simple pipeline for turning documents into searchable vectors, indexing them, and answering queries with approximate nearest-neighbor search and optional reranking.
 
 Contents
 --------
